@@ -26,3 +26,4 @@ class solution(object):
 
 
 #  but this is the thing is that it has a time complexity of O(n2) and we need to optimize them more 
+
