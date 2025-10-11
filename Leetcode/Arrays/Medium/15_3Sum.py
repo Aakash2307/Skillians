@@ -29,7 +29,7 @@ class Solution(object):
         nums.sort()
         result = []
 
-        for i in range (n-2):
+        for i in range (n-1):
             if i > 0 and nums[i] == nums[i-1]:
                 continue
 
